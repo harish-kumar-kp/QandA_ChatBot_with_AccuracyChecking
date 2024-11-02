@@ -3,8 +3,8 @@ from transformers import AutoTokenizer, AutoModelForQuestionAnswering
 import torch
 
 #/model/customTrained_Distilbert_Squad
-#modelName='model/customTrained_Distilbert_Squad'
-modelName='distilbert-base-uncased-distilled-squad'
+modelName='https://huggingface.co/spaces/harishkumarkotte/speachBot_QnA_DistilBert/tree/main/model'
+#modelName='distilbert-base-uncased-distilled-squad'
 # Load pre-trained model and tokenizer
 model = AutoModelForQuestionAnswering.from_pretrained(modelName)  # Update with your model path
 
