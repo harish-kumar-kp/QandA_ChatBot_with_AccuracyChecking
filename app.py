@@ -153,7 +153,7 @@ with col1:
 
 with col2:
     context = ""
-    playText2Sond("Hi Welcome , I am your Answering Bot Alita , Choose a topic with voice command and end always with alita", lang = 'en')
+    #playText2Sond("Hi Welcome , I am your Answering Bot Alita , Choose a topic with voice command and end always with alita", lang = 'en')
     passage = ""
     # Text input for the passage
     #height = st.slider("Set the height of the text area", 1, 1000, 95)
@@ -176,7 +176,7 @@ with col2:
     wikiLink = refLnkLst[idx]     
                 
     if passage == None:
-        playText2Sond("Please , Choose a topic" , lang = 'en')
+        #playText2Sond("Please , Choose a topic" , lang = 'en')
     else:
         passage = st.text_area("Topic Context for Questions, Reading voice with voice command 'start reading alita' or skip reading by 'skip reading alita' ",value = context ,height=180)
 
@@ -187,20 +187,20 @@ with col2:
         with col2:
             st_player(vidLink , height = 230 , controls=True)        
         st.write(wikiLink)
-        playText2Sond("speak out voice command start reading alita or skip reading alita" , lang = 'en')
+        #playText2Sond("speak out voice command start reading alita or skip reading alita" , lang = 'en')
         #st.write(len(passage))
         #st.write(idx)
         #st.write(topicChoose )
         
         #if st.button("Read Passage"):
         if passage == "":
-            playText2Sond("Hi ,Please choose the topic of context ", lang = 'en')
+            #playText2Sond("Hi ,Please choose the topic of context ", lang = 'en')
             
         else:
             
             command = (speach2Txt("alita")).strip()
             if "start reading" in command or "read context" in command or "read it" in command :
-                playText2Sond(passage , lang = 'en')
+                #playText2Sond(passage , lang = 'en')
             elif "change the" in command or "back to" in command or "choose another" in command or "go to" in command or "skip this" in command or "wrong" in command:   
                 st.rerun()
             elif "skip" in command or "skip reading" in command or "questions" in command or "pass" in command:
@@ -211,7 +211,7 @@ with col2:
 with col3:
     while(x):
         if passage != "" or passage !="?":
-            playText2Sond("Your question Please" , lang = 'en')
+            #playText2Sond("Your question Please" , lang = 'en')
             spechQuest = (speach2Txt("alita")).strip()
         # Text input for the question
         if "change" in spechQuest or "back to" in spechQuest or "choose another" in spechQuest or "go to" in spechQuest or "skip this" in spechQuest:
@@ -239,7 +239,7 @@ with col3:
             )
             # Display the answer
             st.write("Answer:", answer)
-            playText2Sond("Answer.......   "+answer , lang = 'en')
+            #playText2Sond("Answer.......   "+answer , lang = 'en')
             question = ""
 import streamlit as st
 
