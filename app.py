@@ -54,9 +54,9 @@ def speach2Txt(stopword):
 
 
 # Path to your custom-trained model
-model_name ='distilbert-base-uncased-distilled-squad'
+#model_name ='distilbert-base-uncased-distilled-squad'
 # Load pre-trained DistilBERT model and tokenizer
-#model_name = "model/customTrained_Distilbert_Squad"
+model_name = "model/customTrained_Distilbert_Squad"
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModelForQuestionAnswering.from_pretrained(model_name)
 
