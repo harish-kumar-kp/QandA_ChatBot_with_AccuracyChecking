@@ -1,9 +1,9 @@
-streamlit==1.39.0
-streamlit-player==0.1.5
-transformers==4.46.1
 torch==2.5.1
-gTTS==2.5.3
-SpeechRecognition==3.11.0
+transformers==4.46.1
+regex==2024.9.11
+Strings2==0.0.4
+gradio==5.4.0
+collection==0.1.6
 
 
 
