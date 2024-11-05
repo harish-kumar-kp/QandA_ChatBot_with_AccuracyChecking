@@ -101,7 +101,7 @@ Contributions to this project are welcome! If you encounter any issues or have s
 
 
 ## 11.License :
-This project can use the MIT License.
+This project is under the MIT License.
 
 
 ## 12. Contact :
