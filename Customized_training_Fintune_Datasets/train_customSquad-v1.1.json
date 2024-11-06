@@ -1,0 +1,530 @@
+{
+  "data": [
+    {
+      "id": "i01",
+      "title": "News",
+      "context": "Fighting in the volatile Sudanese region of Darfur has sparked another wave of refugees into Chad and left a Red Cross employee dead, according to international agencies. Refugee camps in eastern Chad house about 300,000 people who fled violence in the Darfur region of Sudan.",
+      "question": "Where is Darfur located?",
+      "answers": {"text": ["Sudanese region"],"answer_start": [25]}
+    },
+    {
+      "id": "i02",
+      "title": "News",
+      "context": "Fighting in the volatile Sudanese region of Darfur has sparked another wave of refugees into Chad and left a Red Cross employee dead, according to international agencies. Refugee camps in eastern Chad house about 300,000 people who fled violence in the Darfur region of Sudan.",
+      "question": "Who died ?",
+      "answers": {"text": ["Red Cross employee"],"answer_start": [109]}
+    },
+    {
+      "id": "i03",
+      "title": "News",
+      "context": "Fighting in the volatile Sudanese region of Darfur has sparked another wave of refugees into Chad and left a Red Cross employee dead, according to international agencies. Refugee camps in eastern Chad house about 300,000 people who fled violence in the Darfur region of Sudan.",
+      "question": "According to whom?",
+      "answers": {"text": ["international agencies"],"answer_start": [147]}
+    },
+    {
+      "id": "i04",
+      "title": "News",
+      "context": "Fighting in the volatile Sudanese region of Darfur has sparked another wave of refugees into Chad and left a Red Cross employee dead, according to international agencies. Refugee camps in eastern Chad house about 300,000 people who fled violence in the Darfur region of Sudan.",
+      "question": "According to whom?",
+      "answers": {"text": ["300,000 people"],"answer_start": [213]}
+    },
+    {
+      "id": "i05",
+      "title": "News",
+      "context": "Fighting in the volatile Sudanese region of Darfur has sparked another wave of refugees into Chad and left a Red Cross employee dead, according to international agencies. Refugee camps in eastern Chad house about 300,000 people who fled violence in the Darfur region of Sudan.",
+      "question": "According to whom?",
+      "answers": {"text": ["eastern Chad"],"answer_start": [188]}
+    },
+    {
+      "id": "i06",
+      "title": "News",
+      "context": "Miffed by a visa delay that led the Dalai Lama to cancel a trip to South Africa, Archbishop Desmond Tutu lashed out at his government Tuesday, saying it had acted worse than apartheid regimes and had forgotten all that the nation stood for.\"When we used to apply for passports under the apartheid government, we never knew until the last moment what their decision was,\" Tutu said at a news conference. \"Our government is worse than the apartheid government because at least you were expecting it from the apartheid government.\"I have to say that I can't believe this. I really can't believe this,\" Tutu said. \"You have to wake me up and tell me this is actually happening here.\"",
+      "question": "What led Dalai Lama to cancel a trip to South Africa?",
+      "answers": {"text": ["visa delay"],"answer_start": [12]}
+    },
+    {
+      "id": "i07",
+      "title": "News",
+      "context": "Miffed by a visa delay that led the Dalai Lama to cancel a trip to South Africa, Archbishop Desmond Tutu lashed out at his government Tuesday, saying it had acted worse than apartheid regimes and had forgotten all that the nation stood for.\"When we used to apply for passports under the apartheid government, we never knew until the last moment what their decision was,\" Tutu said at a news conference. \"Our government is worse than the apartheid government because at least you were expecting it from the apartheid government.\"I have to say that I can't believe this. I really can't believe this,\" Tutu said. \"You have to wake me up and tell me this is actually happening here.\"",
+      "question": "Who lashed out at his government?",
+      "answers": {"text": ["Archbishop Desmond Tutu"],"answer_start": [81]}
+
+    },
+    {
+      "id": "i08",
+      "title": "News",
+      "context": "Miffed by a visa delay that led the Dalai Lama to cancel a trip to South Africa, Archbishop Desmond Tutu lashed out at his government Tuesday, saying it had acted worse than apartheid regimes and had forgotten all that the nation stood for.\"When we used to apply for passports under the apartheid government, we never knew until the last moment what their decision was,\" Tutu said at a news conference. \"Our government is worse than the apartheid government because at least you were expecting it from the apartheid government.\"I have to say that I can't believe this. I really can't believe this,\" Tutu said. \"You have to wake me up and tell me this is actually happening here.\"",
+      "question": "What did he applied under the apartheid government?",
+      "answers": {"text": ["passports"],"answer_start": [268]}
+    },
+    {
+      "id": "i09",
+      "title": "News",
+      "context": "Miffed by a visa delay that led the Dalai Lama to cancel a trip to South Africa, Archbishop Desmond Tutu lashed out at his government Tuesday, saying it had acted worse than apartheid regimes and had forgotten all that the nation stood for.\"When we used to apply for passports under the apartheid government, we never knew until the last moment what their decision was,\" Tutu said at a news conference. \"Our government is worse than the apartheid government because at least you were expecting it from the apartheid government.\"I have to say that I can't believe this. I really can't believe this,\" Tutu said. \"You have to wake me up and tell me this is actually happening here.\"",
+      "question": "To whom Tutu said ?",
+      "answers": {"text": ["news conference"],"answer_start": [386]}
+    },
+    {
+      "id": "i10",
+      "title": "News",
+      "context": "Miffed by a visa delay that led the Dalai Lama to cancel a trip to South Africa, Archbishop Desmond Tutu lashed out at his government Tuesday, saying it had acted worse than apartheid regimes and had forgotten all that the nation stood for.\"When we used to apply for passports under the apartheid government, we never knew until the last moment what their decision was,\" Tutu said at a news conference. \"Our government is worse than the apartheid government because at least you were expecting it from the apartheid government.\"I have to say that I can't believe this. I really can't believe this,\" Tutu said. \"You have to wake me up and tell me this is actually happening here.\"",
+      "question": "Who is Desmond Tutu ?",
+      "answers": {"text": ["Archbishop"],"answer_start": [81]}
+    },
+    {
+      "id": "i11",
+      "title": "News",
+      "context": "Volcanologists in the Philippines are closely monitoring a volcano on Luzon Island close to the capital, Manila, after a sudden spike in seismic activity.Twenty one volcanic earthquakes were recorded at Taal Volcano from Sunday 8 a.m. to Monday 8 a.m.One of the earthquakes was felt by cccc in Brgy Calauit at the southeast side of the island.Scientists at the Philippine Institute of Volcanology and Seismology (PHIVOLCS) say the quakes are an indication that magma is moving towards Taal's surface.The main crater lake has been heating up since January.PHIVOLCS Science Research Specialist Alex Ramos told CNN that scientists have seen \"a slight intensification of steaming in the main crater lake.\"",
+      "question": "In Philippines whoo are closely monitoring a volcano?",
+      "answers": {"text": ["Volcanologists"],"answer_start": [0]}
+    },
+    {
+      "id": "i12",
+      "title": "News",
+      "context": "Volcanologists in the Philippines are closely monitoring a volcano on Luzon Island close to the capital, Manila, after a sudden spike in seismic activity.Twenty one volcanic earthquakes were recorded at Taal Volcano from Sunday 8 a.m. to Monday 8 a.m.One of the earthquakes was felt by cccc in Brgy Calauit at the southeast side of the island.Scientists at the Philippine Institute of Volcanology and Seismology (PHIVOLCS) say the quakes are an indication that magma is moving towards Taal's surface.The main crater lake has been heating up since January.PHIVOLCS Science Research Specialist Alex Ramos told CNN that scientists have seen \"a slight intensification of steaming in the main crater lake.\"",
+      "question": "Where in Philippines the volcono is moniitored?",
+      "answers": {"text": ["Luzon Island"],"answer_start": [70]}
+    },
+    {
+      "id": "i13",
+      "title": "News",
+      "context": "Volcanologists in the Philippines are closely monitoring a volcano on Luzon Island close to the capital, Manila, after a sudden spike in seismic activity.Twenty one volcanic earthquakes were recorded at Taal Volcano from Sunday 8 a.m. to Monday 8 a.m.One of the earthquakes was felt by cccc in Brgy Calauit at the southeast side of the island.Scientists at the Philippine Institute of Volcanology and Seismology (PHIVOLCS) say the quakes are an indication that magma is moving towards Taal's surface.The main crater lake has been heating up since January.PHIVOLCS Science Research Specialist Alex Ramos told CNN that scientists have seen \"a slight intensification of steaming in the main crater lake.\"",
+      "question": "How many volcanic earthquakes are recorded?",
+      "answers": {"text": ["Twenty one"],"answer_start": [154]}
+    },
+    {
+      "id": "i14",
+      "title": "News",
+      "context": "Volcanologists in the Philippines are closely monitoring a volcano on Luzon Island close to the capital, Manila, after a sudden spike in seismic activity.Twenty one volcanic earthquakes were recorded at Taal Volcano from Sunday 8 a.m. to Monday 8 a.m.One of the earthquakes was felt by cccc in Brgy Calauit at the southeast side of the island.Scientists at the Philippine Institute of Volcanology and Seismology (PHIVOLCS) say the quakes are an indication that magma is moving towards Taal's surface.The main crater lake has been heating up since January.PHIVOLCS Science Research Specialist Alex Ramos told CNN that scientists have seen \"a slight intensification of steaming in the main crater lake.\"",
+      "question": "Who sensed the earthquake?",
+      "answers": {"text": ["local residents"],"answer_start": [286]}
+    },
+    {
+      "id": "i15",
+      "title": "News",
+      "context": "Volcanologists in the Philippines are closely monitoring a volcano on Luzon Island close to the capital, Manila, after a sudden spike in seismic activity.Twenty one volcanic earthquakes were recorded at Taal Volcano from Sunday 8 a.m. to Monday 8 a.m.One of the earthquakes was felt by cccc in Brgy Calauit at the southeast side of the island.Scientists at the Philippine Institute of Volcanology and Seismology (PHIVOLCS) say the quakes are an indication that magma is moving towards Taal's surface.The main crater lake has been heating up since January.PHIVOLCS Science Research Specialist Alex Ramos told CNN that scientists have seen \"a slight intensification of steaming in the main crater lake.\"",
+      "question": "What is PHIVOLCS?",
+      "answers": {"text": ["Philippine Institute of Volcanology and Seismology"],"answer_start": [372]}
+    },
+    {
+      "id": "i16",
+      "title": "News",
+      "context": "NASA scientists say new data provided by twin spacecraft analyzing the sun will help them more accurately predict how so-called solar tsunamis wreak havoc on our planet.NASA says new data on so-called solar tsunamis will help predict how they will affect our planetThe tsunamis -- powerful explosions known as coronal mass ejections, or CMEs -- produce solar cosmic rays that can interfere with technology, causing power blackouts and disrupting air traffic communications and cell phone networks.NASA says images captured by its twin Solar Terrestrial Relations Observatory, or STEREO, spacecraft have enabled scientists to map the tsunamis in 3D to examine their structure, velocity, mass and direction.",
+      "question": "NASA scientists say new data provided by what?",
+      "answers": {"text": ["twin spacecraft"],"answer_start": [41]}
+    },
+    {
+      "id": "i17",
+      "title": "News",
+      "context": "NASA scientists say new data provided by twin spacecraft analyzing the sun will help them more accurately predict how so-called solar tsunamis wreak havoc on our planet.NASA says new data on so-called solar tsunamis will help predict how they will affect our planetThe tsunamis -- powerful explosions known as coronal mass ejections, or CMEs -- produce solar cosmic rays that can interfere with technology, causing power blackouts and disrupting air traffic communications and cell phone networks.NASA says images captured by its twin Solar Terrestrial Relations Observatory, or STEREO, spacecraft have enabled scientists to map the tsunamis in 3D to examine their structure, velocity, mass and direction.",
+      "question": "What the twin spacecraft analyzing the sun?",
+      "answers": {"text": ["solar tsunamis"],"answer_start": [128]}
+    },
+    {
+      "id": "i18",
+      "title": "News",
+      "context": "NASA scientists say new data provided by twin spacecraft analyzing the sun will help them more accurately predict how so-called solar tsunamis wreak havoc on our planet.NASA says new data on so-called solar tsunamis will help predict how they will affect our planetThe tsunamis -- powerful explosions known as coronal mass ejections, or CMEs -- produce solar cosmic rays that can interfere with technology, causing power blackouts and disrupting air traffic communications and cell phone networks.NASA says images captured by its twin Solar Terrestrial Relations Observatory, or STEREO, spacecraft have enabled scientists to map the tsunamis in 3D to examine their structure, velocity, mass and direction.",
+      "question": "What is that powerful explosions known as ?",
+      "answers": {"text": ["coronal mass ejections"],"answer_start": [310]}
+    },
+    {
+      "id": "i19",
+      "title": "News",
+      "context": "NASA scientists say new data provided by twin spacecraft analyzing the sun will help them more accurately predict how so-called solar tsunamis wreak havoc on our planet.NASA says new data on so-called solar tsunamis will help predict how they will affect our planetThe tsunamis -- powerful explosions known as coronal mass ejections, or CMEs -- produce solar cosmic rays that can interfere with technology, causing power blackouts and disrupting air traffic communications and cell phone networks.NASA says images captured by its twin Solar Terrestrial Relations Observatory, or STEREO, spacecraft have enabled scientists to map the tsunamis in 3D to examine their structure, velocity, mass and direction.",
+      "question": "solar cosmic rays that can interfere with technology and do what?",
+      "answers": {"text": ["causing power blackouts and disrupting air traffic communications"],"answer_start": [407]}
+    },
+    {
+      "id": "i20",
+      "title": "News",
+      "context": "NASA scientists say new data provided by twin spacecraft analyzing the sun will help them more accurately predict how so-called solar tsunamis wreak havoc on our planet.NASA says new data on so-called solar tsunamis will help predict how they will affect our planetThe tsunamis -- powerful explosions known as coronal mass ejections, or CMEs -- produce solar cosmic rays that can interfere with technology, causing power blackouts and disrupting air traffic communications and cell phone networks.NASA says images captured by its twin Solar Terrestrial Relations Observatory, or STEREO, spacecraft have enabled scientists to map the tsunamis in 3D to examine their structure, velocity, mass and direction.",
+      "question": "What the spacecraft have enabled scientists to map?",
+      "answers": {"text": ["tsunamis in 3D"],"answer_start": [633]}
+    },
+    {
+      "id": "i21",
+      "title": "News",
+      "context": "A bomb scare that affected about 100 flights at Munich Airport in Germany on Wednesday may have been a false alarm, German police told CNN.Police launched a huge manhunt Wednesday after a passenger appeared to flee from security officers when his laptop computer bag tested positive for explosives, they said.Police originally said authorities wanted to take the man in for further testing after his bag set off suspicions, but he ran. They said a bomb squad was testing the bag to see if it really contained explosives.But authorities later said the man may simply have been in a hurry, grabbed his things and left the airport.They do not have the laptop case, they said.They are still trying to find the man, they said, but are no longer describing the search as a huge manhunt.",
+      "question": "The bomb scare that affected about how many flights?",
+      "answers": {"text": ["100"],"answer_start": [33]}
+    },
+    {
+      "id": "i22",
+      "title": "News",
+      "context": "A bomb scare that affected about 100 flights at Munich Airport in Germany on Wednesday may have been a false alarm, German police told CNN.Police launched a huge manhunt Wednesday after a passenger appeared to flee from security officers when his laptop computer bag tested positive for explosives, they said.Police originally said authorities wanted to take the man in for further testing after his bag set off suspicions, but he ran. They said a bomb squad was testing the bag to see if it really contained explosives.But authorities later said the man may simply have been in a hurry, grabbed his things and left the airport.They do not have the laptop case, they said.They are still trying to find the man, they said, but are no longer describing the search as a huge manhunt.",
+      "question": "The bomb scare that happened where ?",
+      "answers": {"text": ["Munich Airport in Germany"],"answer_start": [48]}
+    },
+    {
+      "id": "i23",
+      "title": "News",
+      "context": "A bomb scare that affected about 100 flights at Munich Airport in Germany on Wednesday may have been a false alarm, German police told CNN.Police launched a huge manhunt Wednesday after a passenger appeared to flee from security officers when his laptop computer bag tested positive for explosives, they said.Police originally said authorities wanted to take the man in for further testing after his bag set off suspicions, but he ran. They said a bomb squad was testing the bag to see if it really contained explosives.But authorities later said the man may simply have been in a hurry, grabbed his things and left the airport.They do not have the laptop case, they said.They are still trying to find the man, they said, but are no longer describing the search as a huge manhunt.",
+      "question": "Police launched what ?",
+      "answers": {"text": ["huge manhunt"],"answer_start": [157]}
+    },
+    {
+      "id": "i24",
+      "title": "News",
+      "context": "A bomb scare that affected about 100 flights at Munich Airport in Germany on Wednesday may have been a false alarm, German police told CNN.Police launched a huge manhunt Wednesday after a passenger appeared to flee from security officers when his laptop computer bag tested positive for explosives, they said.Police originally said authorities wanted to take the man in for further testing after his bag set off suspicions, but he ran. They said a bomb squad was testing the bag to see if it really contained explosives.But authorities later said the man may simply have been in a hurry, grabbed his things and left the airport.They do not have the laptop case, they said.They are still trying to find the man, they said, but are no longer describing the search as a huge manhunt.",
+      "question": "They do not have the  what ?",
+      "answers": {"text": ["laptop case"],"answer_start": [649]}
+    },
+    {
+      "id": "i25",
+      "title": "Movies",
+      "context": "In a post-apocalyptic future, humanity is at war with sentient Machines. Their leader, John Connor, sends soldier Kyle Reese back in time to protect his mother, Sarah Connor, from a relentless robotic assassin, the Terminator, who is determined to kill her to prevent John’s birth. Arriving in 1984, the Terminator begins tracking down and killing women named Sarah Connor.Sarah, a waitress living a mundane life, finds herself targeted and is saved by Reese, who explains her future role as John’s mother. Pursued by the Terminator, Reese and Sarah evade capture and begin a romance that will lead to John’s conception. The chase culminates in a factory, where Reese sacrifices himself to disable the Terminator. Sarah finally destroys it, securing humanity’s hope for survival.In the aftermath, Sarah, pregnant with John, drives into the desert, preparing for an uncertain future while contemplating her son’s destiny as humanity’s savior.",
+      "question": "When did humanity is at war with sentient Machines?",
+      "answers": {"text": ["post-apocalyptic future"],"answer_start": [5]}
+    },
+    {
+      "id": "i26",
+      "title": "Movies",
+      "context": "In a post-apocalyptic future, humanity is at war with sentient Machines. Their leader, John Connor, sends soldier Kyle Reese back in time to protect his mother, Sarah Connor, from a relentless robotic assassin, the Terminator, who is determined to kill her to prevent John’s birth. Arriving in 1984, the Terminator begins tracking down and killing women named Sarah Connor.Sarah, a waitress living a mundane life, finds herself targeted and is saved by Reese, who explains her future role as John’s mother. Pursued by the Terminator, Reese and Sarah evade capture and begin a romance that will lead to John’s conception. The chase culminates in a factory, where Reese sacrifices himself to disable the Terminator. Sarah finally destroys it, securing humanity’s hope for survival.In the aftermath, Sarah, pregnant with John, drives into the desert, preparing for an uncertain future while contemplating her son’s destiny as humanity’s savior.",
+      "question": "Who is their leader?",
+      "answers": {"text": ["John Connor"],"answer_start": [87]}
+    },
+    {
+      "id": "i27",
+      "title": "Movies",
+      "context": "In a post-apocalyptic future, humanity is at war with sentient Machines. Their leader, John Connor, sends soldier Kyle Reese back in time to protect his mother, Sarah Connor, from a relentless robotic assassin, the Terminator, who is determined to kill her to prevent John’s birth. Arriving in 1984, the Terminator begins tracking down and killing women named Sarah Connor.Sarah, a waitress living a mundane life, finds herself targeted and is saved by Reese, who explains her future role as John’s mother. Pursued by the Terminator, Reese and Sarah evade capture and begin a romance that will lead to John’s conception. The chase culminates in a factory, where Reese sacrifices himself to disable the Terminator. Sarah finally destroys it, securing humanity’s hope for survival.In the aftermath, Sarah, pregnant with John, drives into the desert, preparing for an uncertain future while contemplating her son’s destiny as humanity’s savior.",
+      "question": "Why leader, John Connor, sends soldier Kyle Reese back in time?",
+      "answers": {"text": ["to protect his mother"],"answer_start": [138]}
+    },
+    {
+      "id": "i28",
+      "title": "Movies",
+      "context": "In a post-apocalyptic future, humanity is at war with sentient Machines. Their leader, John Connor, sends soldier Kyle Reese back in time to protect his mother, Sarah Connor, from a relentless robotic assassin, the Terminator, who is determined to kill her to prevent John’s birth. Arriving in 1984, the Terminator begins tracking down and killing women named Sarah Connor.Sarah, a waitress living a mundane life, finds herself targeted and is saved by Reese, who explains her future role as John’s mother. Pursued by the Terminator, Reese and Sarah evade capture and begin a romance that will lead to John’s conception. The chase culminates in a factory, where Reese sacrifices himself to disable the Terminator. Sarah finally destroys it, securing humanity’s hope for survival.In the aftermath, Sarah, pregnant with John, drives into the desert, preparing for an uncertain future while contemplating her son’s destiny as humanity’s savior.",
+      "question": "when the Terminator arrive?",
+      "answers": {"text": ["1984"],"answer_start": [294]}
+    },
+    {
+      "id": "i29",
+      "title": "Movies",
+      "context": "In a post-apocalyptic future, humanity is at war with sentient Machines. Their leader, John Connor, sends soldier Kyle Reese back in time to protect his mother, Sarah Connor, from a relentless robotic assassin, the Terminator, who is determined to kill her to prevent John’s birth. Arriving in 1984, the Terminator begins tracking down and killing women named Sarah Connor.Sarah, a waitress living a mundane life, finds herself targeted and is saved by Reese, who explains her future role as John’s mother. Pursued by the Terminator, Reese and Sarah evade capture and begin a romance that will lead to John’s conception. The chase culminates in a factory, where Reese sacrifices himself to disable the Terminator. Sarah finally destroys it, securing humanity’s hope for survival.In the aftermath, Sarah, pregnant with John, drives into the desert, preparing for an uncertain future while contemplating her son’s destiny as humanity’s savior.",
+      "question": "What is terminator?",
+      "answers": {"text": ["relentless robotic assassin"],"answer_start": [182]}
+    },
+    {
+      "id": "i30",
+      "title": "Movies",
+      "context": "84 years later, a 100 year-old woman named Rose DeWitt Bukater tells the story to her granddaughter Lizzy Calvert, Brock Lovett, Lewis Bodine, Bobby Buell and Anatoly Mikailavich on the Keldysh about her life set in April 10th 1912, on a ship called Titanic when young Rose boards the departing ship with the upper-class passengers and her mother, Ruth DeWitt Bukater, and her fiancé, Caledon Hockley. Meanwhile, a drifter and artist named Jack Dawson and his best friend Fabrizio De Rossi win third-class tickets to the ship in a game. And she explains the whole story from departure until the death of Titanic on its first and last voyage April 15th, 1912 at 2:20 in the morning.",
+      "question": "How many years later?",
+      "answers": {"text": ["84 years"],"answer_start": [0]}
+    },
+    {
+      "id": "i31",
+      "title": "Movies",
+      "context": "84 years later, a 100 year-old woman named Rose DeWitt Bukater tells the story to her granddaughter Lizzy Calvert, Brock Lovett, Lewis Bodine, Bobby Buell and Anatoly Mikailavich on the Keldysh about her life set in April 10th 1912, on a ship called Titanic when young Rose boards the departing ship with the upper-class passengers and her mother, Ruth DeWitt Bukater, and her fiancé, Caledon Hockley. Meanwhile, a drifter and artist named Jack Dawson and his best friend Fabrizio De Rossi win third-class tickets to the ship in a game. And she explains the whole story from departure until the death of Titanic on its first and last voyage April 15th, 1912 at 2:20 in the morning.",
+      "question": "what is the name of 100 year-old woman?",
+      "answers": {"text": ["Rose DeWitt Bukater"],"answer_start": [43]}
+    },
+    {
+      "id": "i32",
+      "title": "Movies",
+      "context": "84 years later, a 100 year-old woman named Rose DeWitt Bukater tells the story to her granddaughter Lizzy Calvert, Brock Lovett, Lewis Bodine, Bobby Buell and Anatoly Mikailavich on the Keldysh about her life set in April 10th 1912, on a ship called Titanic when young Rose boards the departing ship with the upper-class passengers and her mother, Ruth DeWitt Bukater, and her fiancé, Caledon Hockley. Meanwhile, a drifter and artist named Jack Dawson and his best friend Fabrizio De Rossi win third-class tickets to the ship in a game. And she explains the whole story from departure until the death of Titanic on its first and last voyage April 15th, 1912 at 2:20 in the morning.",
+      "question": "what is the name of the old women's granddaughter?",
+      "answers": {"text": ["Lizzy Calvert"],"answer_start": [100]}
+    },
+    {
+      "id": "i33",
+      "title": "Movies",
+      "context": "84 years later, a 100 year-old woman named Rose DeWitt Bukater tells the story to her granddaughter Lizzy Calvert, Brock Lovett, Lewis Bodine, Bobby Buell and Anatoly Mikailavich on the Keldysh about her life set in April 10th 1912, on a ship called Titanic when young Rose boards the departing ship with the upper-class passengers and her mother, Ruth DeWitt Bukater, and her fiancé, Caledon Hockley. Meanwhile, a drifter and artist named Jack Dawson and his best friend Fabrizio De Rossi win third-class tickets to the ship in a game. And she explains the whole story from departure until the death of Titanic on its first and last voyage April 15th, 1912 at 2:20 in the morning.",
+      "question": "What is the name of the Ship?",
+      "answers": {"text": ["Titanic"],"answer_start": [250]}
+    },    
+    {
+      "id": "i34",
+      "title": "Movies",
+      "context": "84 years later, a 100 year-old woman named Rose DeWitt Bukater tells the story to her granddaughter Lizzy Calvert, Brock Lovett, Lewis Bodine, Bobby Buell and Anatoly Mikailavich on the Keldysh about her life set in April 10th 1912, on a ship called Titanic when young Rose boards the departing ship with the upper-class passengers and her mother, Ruth DeWitt Bukater, and her fiancé, Caledon Hockley. Meanwhile, a drifter and artist named Jack Dawson and his best friend Fabrizio De Rossi win third-class tickets to the ship in a game. And she explains the whole story from departure until the death of Titanic on its first and last voyage April 15th, 1912 at 2:20 in the morning.",
+      "question": "what is the name of the artist?",
+      "answers": {"text": ["Jack Dawson"],"answer_start": [440]}
+    },
+    {
+      "id": "i35",
+      "title": "Movies",
+      "context": "84 years later, a 100 year-old woman named Rose DeWitt Bukater tells the story to her granddaughter Lizzy Calvert, Brock Lovett, Lewis Bodine, Bobby Buell and Anatoly Mikailavich on the Keldysh about her life set in April 10th 1912, on a ship called Titanic when young Rose boards the departing ship with the upper-class passengers and her mother, Ruth DeWitt Bukater, and her fiancé, Caledon Hockley. Meanwhile, a drifter and artist named Jack Dawson and his best friend Fabrizio De Rossi win third-class tickets to the ship in a game. And she explains the whole story from departure until the death of Titanic on its first and last voyage April 15th, 1912 at 2:20 in the morning.",
+      "question": "When is the first and last voyage of Titanic happened?",
+      "answers": {"text": ["April 15th, 1912"],"answer_start": [641]}
+    },
+    {
+      "id": "i36",
+      "title": "Movies",
+      "context": "Major Vic Deakins and Captain Riley Hale are Air Force pilots sent on a mission to fly a B-3 bomber carrying two live nuclear warheads to test for radiation emissions over a desert in Utah. The mission is messed up when Vic tries to kill Riley, and the airplane crashes in the desert. The warheads were made to survive crashes. Before the crash, Vic and Riley parachuted off of the airplane. Vic and his right hand man Emmitt Kelly (Howie Long) steal the two warheads, and they plan to detonate the two warheads in Salt Lake City unless they receive $250,000,000 from the government. Lost in the desert, Riley is found by park ranger Terry Carmichael, who decides to help him find Vic and Emmitt. Terry and Riley soon discover that Vic plans to send the warheads to Salt Lake City on a train, but Vic has only one warhead to use after one of the warheads explodes inside of an abandoned copper mine that Vic was using as a hideout. Then Terry and Riley discover that Vic is actually sending the remaining warhead to an even bigger target -- Denver, Colorado, not Salt Lake City. Can they stop the train before it reaches Denver?",
+      "question": "Who are Major Vic Deakins and Captain Riley Hale?",
+      "answers": {"text": ["Air Force pilots"],"answer_start": [45]}
+    },
+    {
+      "id": "i37",
+      "title": "Movies",
+      "context": "Major Vic Deakins and Captain Riley Hale are Air Force pilots sent on a mission to fly a B-3 bomber carrying two live nuclear warheads to test for radiation emissions over a desert in Utah. The mission is messed up when Vic tries to kill Riley, and the airplane crashes in the desert. The warheads were made to survive crashes. Before the crash, Vic and Riley parachuted off of the airplane. Vic and his right hand man Emmitt Kelly (Howie Long) steal the two warheads, and they plan to detonate the two warheads in Salt Lake City unless they receive $250,000,000 from the government. Lost in the desert, Riley is found by park ranger Terry Carmichael, who decides to help him find Vic and Emmitt. Terry and Riley soon discover that Vic plans to send the warheads to Salt Lake City on a train, but Vic has only one warhead to use after one of the warheads explodes inside of an abandoned copper mine that Vic was using as a hideout. Then Terry and Riley discover that Vic is actually sending the remaining warhead to an even bigger target -- Denver, Colorado, not Salt Lake City. Can they stop the train before it reaches Denver?",
+      "question": "B-3 bomber is carrying what?",
+      "answers": {"text": ["two live nuclear warheads"],"answer_start": [109]}
+    },
+    {
+      "id": "i38",
+      "title": "Movies",
+      "context": "Major Vic Deakins and Captain Riley Hale are Air Force pilots sent on a mission to fly a B-3 bomber carrying two live nuclear warheads to test for radiation emissions over a desert in Utah. The mission is messed up when Vic tries to kill Riley, and the airplane crashes in the desert. The warheads were made to survive crashes. Before the crash, Vic and Riley parachuted off of the airplane. Vic and his right hand man Emmitt Kelly (Howie Long) steal the two warheads, and they plan to detonate the two warheads in Salt Lake City unless they receive $250,000,000 from the government. Lost in the desert, Riley is found by park ranger Terry Carmichael, who decides to help him find Vic and Emmitt. Terry and Riley soon discover that Vic plans to send the warheads to Salt Lake City on a train, but Vic has only one warhead to use after one of the warheads explodes inside of an abandoned copper mine that Vic was using as a hideout. Then Terry and Riley discover that Vic is actually sending the remaining warhead to an even bigger target -- Denver, Colorado, not Salt Lake City. Can they stop the train before it reaches Denver?",
+      "question": "Where to test for radiation emissions over?",
+      "answers": {"text": ["desert in Utah"],"answer_start": [174]}
+    },
+    {
+      "id": "i39",
+      "title": "Movies",
+      "context": "Major Vic Deakins and Captain Riley Hale are Air Force pilots sent on a mission to fly a B-3 bomber carrying two live nuclear warheads to test for radiation emissions over a desert in Utah. The mission is messed up when Vic tries to kill Riley, and the airplane crashes in the desert. The warheads were made to survive crashes. Before the crash, Vic and Riley parachuted off of the airplane. Vic and his right hand man Emmitt Kelly (Howie Long) steal the two warheads, and they plan to detonate the two warheads in Salt Lake City unless they receive $250,000,000 from the government. Lost in the desert, Riley is found by park ranger Terry Carmichael, who decides to help him find Vic and Emmitt. Terry and Riley soon discover that Vic plans to send the warheads to Salt Lake City on a train, but Vic has only one warhead to use after one of the warheads explodes inside of an abandoned copper mine that Vic was using as a hideout. Then Terry and Riley discover that Vic is actually sending the remaining warhead to an even bigger target -- Denver, Colorado, not Salt Lake City. Can they stop the train before it reaches Denver?",
+      "question": "Vic tries to kill whom?",
+      "answers": {"text": ["Riley"],"answer_start": [238]}
+    },
+    {
+      "id": "i40",
+      "title": "Movies",
+      "context": "Major Vic Deakins and Captain Riley Hale are Air Force pilots sent on a mission to fly a B-3 bomber carrying two live nuclear warheads to test for radiation emissions over a desert in Utah. The mission is messed up when Vic tries to kill Riley, and the airplane crashes in the desert. The warheads were made to survive crashes. Before the crash, Vic and Riley parachuted off of the airplane. Vic and his right hand man Emmitt Kelly (Howie Long) steal the two warheads, and they plan to detonate the two warheads in Salt Lake City unless they receive $250,000,000 from the government. Lost in the desert, Riley is found by park ranger Terry Carmichael, who decides to help him find Vic and Emmitt. Terry and Riley soon discover that Vic plans to send the warheads to Salt Lake City on a train, but Vic has only one warhead to use after one of the warheads explodes inside of an abandoned copper mine that Vic was using as a hideout. Then Terry and Riley discover that Vic is actually sending the remaining warhead to an even bigger target -- Denver, Colorado, not Salt Lake City. Can they stop the train before it reaches Denver?",
+      "question": "Where Vic plans to send the warheads?",
+      "answers": {"text": ["Salt Lake City"],"answer_start": [515]}
+    },
+    {
+      "id": "i41",
+      "title": "Movies",
+      "context": "When a young Los Angeles police department, Special Weapons and Tactics (S.W.A.T.) officer called Jack Traven angers retired Atlanta police department bomb squad member Howard Payne, by foiling his attempt at taking hostages stuck in an elevator with a bomb, Payne in retaliation arms a bus with a bomb that will explode if it drops below 50 miles per hour. With the help of spunky passenger Annie, Jack and his partner Detective Harry Temple try to save the people on the bus before the bomb goes off, while also trying to figure out how Payne is monitoring them.",
+      "question": "Who is Jack Traven?",
+      "answers": {"text": ["Special Weapons and Tactics (S.W.A.T.) officer"],"answer_start": [45]}
+    },
+    {
+      "id": "i42",
+      "title": "Movies",
+      "context": "When a young Los Angeles police department, Special Weapons and Tactics (S.W.A.T.) officer called Jack Traven angers retired Atlanta police department bomb squad member Howard Payne, by foiling his attempt at taking hostages stuck in an elevator with a bomb, Payne in retaliation arms a bus with a bomb that will explode if it drops below 50 miles per hour. With the help of spunky passenger Annie, Jack and his partner Detective Harry Temple try to save the people on the bus before the bomb goes off, while also trying to figure out how Payne is monitoring them.",
+      "question": "Who is Howard Payne?",
+      "answers": {"text": ["retired Atlanta police department bomb squad member"],"answer_start": [118]}
+    },
+    {
+      "id": "i43",
+      "title": "Movies",
+      "context": "When a young Los Angeles police department, Special Weapons and Tactics (S.W.A.T.) officer called Jack Traven angers retired Atlanta police department bomb squad member Howard Payne, by foiling his attempt at taking hostages stuck in an elevator with a bomb, Payne in retaliation arms a bus with a bomb that will explode if it drops below 50 miles per hour. With the help of spunky passenger Annie, Jack and his partner Detective Harry Temple try to save the people on the bus before the bomb goes off, while also trying to figure out how Payne is monitoring them.",
+      "question": "What will happen to the bus?",
+      "answers": {"text": ["will explode"],"answer_start": [309]}
+    },
+    {
+      "id": "i44",
+      "title": "Movies",
+      "context": "When a young Los Angeles police department, Special Weapons and Tactics (S.W.A.T.) officer called Jack Traven angers retired Atlanta police department bomb squad member Howard Payne, by foiling his attempt at taking hostages stuck in an elevator with a bomb, Payne in retaliation arms a bus with a bomb that will explode if it drops below 50 miles per hour. With the help of spunky passenger Annie, Jack and his partner Detective Harry Temple try to save the people on the bus before the bomb goes off, while also trying to figure out how Payne is monitoring them.",
+      "question": "Who is Annie?",
+      "answers": {"text": ["spunky passenger"],"answer_start": [376]}
+    },
+    {
+      "id": "i45",
+      "title": "Movies",
+      "context": "When a young Los Angeles police department, Special Weapons and Tactics (S.W.A.T.) officer called Jack Traven angers retired Atlanta police department bomb squad member Howard Payne, by foiling his attempt at taking hostages stuck in an elevator with a bomb, Payne in retaliation arms a bus with a bomb that will explode if it drops below 50 miles per hour. With the help of spunky passenger Annie, Jack and his partner Detective Harry Temple try to save the people on the bus before the bomb goes off, while also trying to figure out how Payne is monitoring them.",
+      "question": "what Jack trying to figure out?",
+      "answers": {"text": ["Payne is monitoring them"],"answer_start": [540]}
+    },
+    {
+      "id": "i46",
+      "title": "Movies",
+      "context": "John Hammond--the visionary billionaire entrepreneur and founder of the bio-engineering company InGen---calls in three experts to witness the wonders of the first-ever dinosaur preserve and put the investors' minds at ease. But there, on the isolated island of Isla Nublar, the hand-picked visitors' wide-eyed excitement will soon turn into pure horror when a devastating malfunction releases the caged primaeval reptiles. As a result, the ferocious Tyrannosaurus Rex, the ultimate apex predator, is on the loose, hungry for fresh meat. Can the intruders confront the living relics and survive the scaly terrors of Jurassic Park?",
+      "question": "Who is John Hammond?",
+      "answers": {"text": ["founder of the bio-engineering company InGen"],"answer_start": [58]}
+    },
+    {
+      "id": "i47",
+      "title": "Movies",
+      "context": "John Hammond--the visionary billionaire entrepreneur and founder of the bio-engineering company InGen---calls in three experts to witness the wonders of the first-ever dinosaur preserve and put the investors' minds at ease. But there, on the isolated island of Isla Nublar, the hand-picked visitors' wide-eyed excitement will soon turn into pure horror when a devastating malfunction releases the caged primaeval reptiles. As a result, the ferocious Tyrannosaurus Rex, the ultimate apex predator, is on the loose, hungry for fresh meat. Can the intruders confront the living relics and survive the scaly terrors of Jurassic Park?",
+      "question": "John Hammond calls in three experts to witness what?",
+      "answers": {"text": ["first-ever dinosaur"],"answer_start": [158]}
+    },
+    {
+      "id": "i48",
+      "title": "Movies",
+      "context": "John Hammond--the visionary billionaire entrepreneur and founder of the bio-engineering company InGen---calls in three experts to witness the wonders of the first-ever dinosaur preserve and put the investors' minds at ease. But there, on the isolated island of Isla Nublar, the hand-picked visitors' wide-eyed excitement will soon turn into pure horror when a devastating malfunction releases the caged primaeval reptiles. As a result, the ferocious Tyrannosaurus Rex, the ultimate apex predator, is on the loose, hungry for fresh meat. Can the intruders confront the living relics and survive the scaly terrors of Jurassic Park?",
+      "question": "Where is bio-engineering company InGen located?",
+      "answers": {"text": ["isolated island of Isla Nublar"],"answer_start": [243]}
+    },
+    {
+      "id": "i49",
+      "title": "Movies",
+      "context": "John Hammond--the visionary billionaire entrepreneur and founder of the bio-engineering company InGen---calls in three experts to witness the wonders of the first-ever dinosaur preserve and put the investors' minds at ease. But there, on the isolated island of Isla Nublar, the hand-picked visitors' wide-eyed excitement will soon turn into pure horror when a devastating malfunction releases the caged primaeval reptiles. As a result, the ferocious Tyrannosaurus Rex, the ultimate apex predator, is on the loose, hungry for fresh meat. Can the intruders confront the living relics and survive the scaly terrors of Jurassic Park?",
+      "question": "What the devastating malfunction releases?",
+      "answers": {"text": ["caged primaeval reptiles"],"answer_start": [398]}
+    },
+    {
+      "id": "i50",
+      "title": "Movies",
+      "context": "John Hammond--the visionary billionaire entrepreneur and founder of the bio-engineering company InGen---calls in three experts to witness the wonders of the first-ever dinosaur preserve and put the investors' minds at ease. But there, on the isolated island of Isla Nublar, the hand-picked visitors' wide-eyed excitement will soon turn into pure horror when a devastating malfunction releases the caged primaeval reptiles. As a result, the ferocious Tyrannosaurus Rex, the ultimate apex predator, is on the loose, hungry for fresh meat. Can the intruders confront the living relics and survive the scaly terrors of Jurassic Park?",
+      "question": "Which is the ultimate apex predator?",
+      "answers": {"text": ["Tyrannosaurus Rex"],"answer_start": [451]}
+    },
+    {
+      "id": "i51",
+      "title": "People",
+      "context": "Albert Einstein, born on March 14, 1879, in Ulm, Germany, is one of the most renowned physicists in history. He is best known for developing the theory of relativity, which revolutionized our understanding of space, time, and gravity. Einstein's famous equation, E=mc², demonstrates the equivalence of mass and energy, fundamentally altering the landscape of theoretical physics. His early academic struggles were overcome by a passion for science and a relentless curiosity about the universe. In 1905, he published four groundbreaking papers that changed the course of physics. Beyond his scientific contributions, Einstein was an outspoken advocate for civil rights, pacifism, and Zionism. He fled Nazi Germany in 1933 and settled in the United States, where he took a position at the Institute for Advanced Study in Princeton. Einstein's legacy continues to inspire generations of scientists and thinkers, making him a symbol of intellectual achievement and humanitarian values.",
+      "question": "When was Albert Einstein born?",
+      "answers": {"text": ["March 14, 1879"],"answer_start": [26]}
+    },
+    {
+      "id": "i52",
+      "title": "People",
+      "context": "Albert Einstein, born on March 14, 1879, in Ulm, Germany, is one of the most renowned physicists in history. He is best known for developing the theory of relativity, which revolutionized our understanding of space, time, and gravity. Einstein's famous equation, E=mc², demonstrates the equivalence of mass and energy, fundamentally altering the landscape of theoretical physics. His early academic struggles were overcome by a passion for science and a relentless curiosity about the universe. In 1905, he published four groundbreaking papers that changed the course of physics. Beyond his scientific contributions, Einstein was an outspoken advocate for civil rights, pacifism, and Zionism. He fled Nazi Germany in 1933 and settled in the United States, where he took a position at the Institute for Advanced Study in Princeton. Einstein's legacy continues to inspire generations of scientists and thinkers, making him a symbol of intellectual achievement and humanitarian values.",
+      "question": "He is best known for developing ?",
+      "answers": {"text": ["theory of relativity"],"answer_start": [146]}
+    },
+    {
+      "id": "i53",
+      "title": "People",
+      "context": "Albert Einstein, born on March 14, 1879, in Ulm, Germany, is one of the most renowned physicists in history. He is best known for developing the theory of relativity, which revolutionized our understanding of space, time, and gravity. Einstein's famous equation, E=mc², demonstrates the equivalence of mass and energy, fundamentally altering the landscape of theoretical physics. His early academic struggles were overcome by a passion for science and a relentless curiosity about the universe. In 1905, he published four groundbreaking papers that changed the course of physics. Beyond his scientific contributions, Einstein was an outspoken advocate for civil rights, pacifism, and Zionism. He fled Nazi Germany in 1933 and settled in the United States, where he took a position at the Institute for Advanced Study in Princeton. Einstein's legacy continues to inspire generations of scientists and thinkers, making him a symbol of intellectual achievement and humanitarian values.",
+      "question": "What is Einstein's famous equation?",
+      "answers": {"text": ["E=mc²"],"answer_start": [264]}
+    },    
+    {
+      "id": "i54",
+      "title": "People",
+      "context": "Albert Einstein, born on March 14, 1879, in Ulm, Germany, is one of the most renowned physicists in history. He is best known for developing the theory of relativity, which revolutionized our understanding of space, time, and gravity. Einstein's famous equation, E=mc², demonstrates the equivalence of mass and energy, fundamentally altering the landscape of theoretical physics. His early academic struggles were overcome by a passion for science and a relentless curiosity about the universe. In 1905, he published four groundbreaking papers that changed the course of physics. Beyond his scientific contributions, Einstein was an outspoken advocate for civil rights, pacifism, and Zionism. He fled Nazi Germany in 1933 and settled in the United States, where he took a position at the Institute for Advanced Study in Princeton. Einstein's legacy continues to inspire generations of scientists and thinkers, making him a symbol of intellectual achievement and humanitarian values.",
+      "question": "When did he published four groundbreaking papers that changed the course of physics?",
+      "answers": {"text": ["1905"],"answer_start": [499]}
+    },    
+    {
+      "id": "i55",
+      "title": "People",
+      "context": "Albert Einstein, born on March 14, 1879, in Ulm, Germany, is one of the most renowned physicists in history. He is best known for developing the theory of relativity, which revolutionized our understanding of space, time, and gravity. Einstein's famous equation, E=mc², demonstrates the equivalence of mass and energy, fundamentally altering the landscape of theoretical physics. His early academic struggles were overcome by a passion for science and a relentless curiosity about the universe. In 1905, he published four groundbreaking papers that changed the course of physics. Beyond his scientific contributions, Einstein was an outspoken advocate for civil rights, pacifism, and Zionism. He fled Nazi Germany in 1933 and settled in the United States, where he took a position at the Institute for Advanced Study in Princeton. Einstein's legacy continues to inspire generations of scientists and thinkers, making him a symbol of intellectual achievement and humanitarian values.",
+      "question": "He fled Nazi Germany in 1933 and settled in?",
+      "answers": {"text": ["United States"],"answer_start": [742]}
+    },
+    {
+      "id": "i56",
+      "title": "People",
+      "context": "Marie Curie, born Maria Skłodowska on November 7, 1867, in Warsaw, Poland, was a pioneering physicist and chemist who made groundbreaking contributions to the field of radioactivity. She was the first woman to win a Nobel Prize and remains the only person to have received Nobel Prizes in two different scientific fields—Physics (1903) and Chemistry (1911). Curie's work on radioactivity laid the foundation for advancements in both medicine and nuclear physics. Her discovery of the radioactive elements polonium and radium opened new avenues for scientific research and therapeutic applications, particularly in cancer treatment. Despite facing significant gender-based discrimination in a male-dominated field, Curie's determination and intellect propelled her to the forefront of scientific inquiry. She founded the Curie Institutes in Paris and Warsaw, which remain major centers for medical research today. Marie Curie's legacy is a testament to her incredible perseverance and commitment to advancing scientific knowledge.",
+      "question": "What was the original name of Marie Curie?",
+      "answers": {"text": ["Maria Skłodowska"],"answer_start": [19]}
+    },
+    {
+      "id": "i57",
+      "title": "People",
+      "context": "Marie Curie, born Maria Skłodowska on November 7, 1867, in Warsaw, Poland, was a pioneering physicist and chemist who made groundbreaking contributions to the field of radioactivity. She was the first woman to win a Nobel Prize and remains the only person to have received Nobel Prizes in two different scientific fields—Physics (1903) and Chemistry (1911). Curie's work on radioactivity laid the foundation for advancements in both medicine and nuclear physics. Her discovery of the radioactive elements polonium and radium opened new avenues for scientific research and therapeutic applications, particularly in cancer treatment. Despite facing significant gender-based discrimination in a male-dominated field, Curie's determination and intellect propelled her to the forefront of scientific inquiry. She founded the Curie Institutes in Paris and Warsaw, which remain major centers for medical research today. Marie Curie's legacy is a testament to her incredible perseverance and commitment to advancing scientific knowledge.",
+      "question": "When was Marie Curie born?",
+      "answers": {"text": ["November 7, 1867"],"answer_start": [39]}
+    },
+    {
+      "id": "i58",
+      "title": "People",
+      "context": "Marie Curie, born Maria Skłodowska on November 7, 1867, in Warsaw, Poland, was a pioneering physicist and chemist who made groundbreaking contributions to the field of radioactivity. She was the first woman to win a Nobel Prize and remains the only person to have received Nobel Prizes in two different scientific fields—Physics (1903) and Chemistry (1911). Curie's work on radioactivity laid the foundation for advancements in both medicine and nuclear physics. Her discovery of the radioactive elements polonium and radium opened new avenues for scientific research and therapeutic applications, particularly in cancer treatment. Despite facing significant gender-based discrimination in a male-dominated field, Curie's determination and intellect propelled her to the forefront of scientific inquiry. She founded the Curie Institutes in Paris and Warsaw, which remain major centers for medical research today. Marie Curie's legacy is a testament to her incredible perseverance and commitment to advancing scientific knowledge.",
+      "question": "Marie Curie was known for groundbreaking contributions to the field of ?",
+      "answers": {"text": ["radioactivity"],"answer_start": [169]}
+    },
+    {
+      "id": "i59",
+      "title": "People",
+      "context": "Marie Curie, born Maria Skłodowska on November 7, 1867, in Warsaw, Poland, was a pioneering physicist and chemist who made groundbreaking contributions to the field of radioactivity. She was the first woman to win a Nobel Prize and remains the only person to have received Nobel Prizes in two different scientific fields—Physics (1903) and Chemistry (1911). Curie's work on radioactivity laid the foundation for advancements in both medicine and nuclear physics. Her discovery of the radioactive elements polonium and radium opened new avenues for scientific research and therapeutic applications, particularly in cancer treatment. Despite facing significant gender-based discrimination in a male-dominated field, Curie's determination and intellect propelled her to the forefront of scientific inquiry. She founded the Curie Institutes in Paris and Warsaw, which remain major centers for medical research today. Marie Curie's legacy is a testament to her incredible perseverance and commitment to advancing scientific knowledge.",
+      "question": "She was the first woman to win what?",
+      "answers": {"text": ["Nobel Prize"],"answer_start": [217]}
+    },
+    {
+      "id": "i60",
+      "title": "People",
+      "context": "Marie Curie, born Maria Skłodowska on November 7, 1867, in Warsaw, Poland, was a pioneering physicist and chemist who made groundbreaking contributions to the field of radioactivity. She was the first woman to win a Nobel Prize and remains the only person to have received Nobel Prizes in two different scientific fields—Physics (1903) and Chemistry (1911). Curie's work on radioactivity laid the foundation for advancements in both medicine and nuclear physics. Her discovery of the radioactive elements polonium and radium opened new avenues for scientific research and therapeutic applications, particularly in cancer treatment. Despite facing significant gender-based discrimination in a male-dominated field, Curie's determination and intellect propelled her to the forefront of scientific inquiry. She founded the Curie Institutes in Paris and Warsaw, which remain major centers for medical research today. Marie Curie's legacy is a testament to her incredible perseverance and commitment to advancing scientific knowledge.",
+      "question": "She founded the Curie Institutes in?",
+      "answers": {"text": ["Paris and Warsaw"],"answer_start": [814]}
+    },
+    {
+      "id": "i61",
+      "title": "People",
+      "context": "Nelson Mandela, born on July 18, 1918, in Mvezo, South Africa, was a transformative leader and anti-apartheid revolutionary. As a prominent figure in the African National Congress (ANC), Mandela dedicated his life to fighting racial oppression in South Africa. His activism led to his arrest in 1962 and subsequent imprisonment for 27 years. During his incarceration, Mandela became a symbol of the struggle against apartheid, inspiring international campaigns for his release. After his release in 1990, he played a crucial role in negotiating the end of apartheid and fostering reconciliation in a deeply divided nation. In 1994, Mandela was elected South Africa's first Black president in the country's first multiracial elections. His leadership emphasized peace, social justice, and equality, earning him the Nobel Peace Prize in 1993. Mandela's legacy continues to resonate worldwide, reminding us of the power of resilience, forgiveness, and the pursuit of justice.",
+      "question": "When was Nelson Mandela born ?",
+      "answers": {"text": ["July 18, 1918"],"answer_start": [25]}
+    },
+    {
+      "id": "i62",
+      "title": "People",
+      "context": "Nelson Mandela, born on July 18, 1918, in Mvezo, South Africa, was a transformative leader and anti-apartheid revolutionary. As a prominent figure in the African National Congress (ANC), Mandela dedicated his life to fighting racial oppression in South Africa. His activism led to his arrest in 1962 and subsequent imprisonment for 27 years. During his incarceration, Mandela became a symbol of the struggle against apartheid, inspiring international campaigns for his release. After his release in 1990, he played a crucial role in negotiating the end of apartheid and fostering reconciliation in a deeply divided nation. In 1994, Mandela was elected South Africa's first Black president in the country's first multiracial elections. His leadership emphasized peace, social justice, and equality, earning him the Nobel Peace Prize in 1993. Mandela's legacy continues to resonate worldwide, reminding us of the power of resilience, forgiveness, and the pursuit of justice.",
+      "question": "Mandela dedicated his life to fighting?",
+      "answers": {"text": ["racial oppression in South Africa"],"answer_start": [227]}
+    },
+    {
+      "id": "i63",
+      "title": "People",
+      "context": "Nelson Mandela, born on July 18, 1918, in Mvezo, South Africa, was a transformative leader and anti-apartheid revolutionary. As a prominent figure in the African National Congress (ANC), Mandela dedicated his life to fighting racial oppression in South Africa. His activism led to his arrest in 1962 and subsequent imprisonment for 27 years. During his incarceration, Mandela became a symbol of the struggle against apartheid, inspiring international campaigns for his release. After his release in 1990, he played a crucial role in negotiating the end of apartheid and fostering reconciliation in a deeply divided nation. In 1994, Mandela was elected South Africa's first Black president in the country's first multiracial elections. His leadership emphasized peace, social justice, and equality, earning him the Nobel Peace Prize in 1993. Mandela's legacy continues to resonate worldwide, reminding us of the power of resilience, forgiveness, and the pursuit of justice.",
+      "question": "When was His activism led to his arrest?",
+      "answers": {"text": ["1962"],"answer_start": [333]}
+    },
+    {
+      "id": "i64",
+      "title": "People",
+      "context": "Nelson Mandela, born on July 18, 1918, in Mvezo, South Africa, was a transformative leader and anti-apartheid revolutionary. As a prominent figure in the African National Congress (ANC), Mandela dedicated his life to fighting racial oppression in South Africa. His activism led to his arrest in 1962 and subsequent imprisonment for 27 years. During his incarceration, Mandela became a symbol of the struggle against apartheid, inspiring international campaigns for his release. After his release in 1990, he played a crucial role in negotiating the end of apartheid and fostering reconciliation in a deeply divided nation. In 1994, Mandela was elected South Africa's first Black president in the country's first multiracial elections. His leadership emphasized peace, social justice, and equality, earning him the Nobel Peace Prize in 1993. Mandela's legacy continues to resonate worldwide, reminding us of the power of resilience, forgiveness, and the pursuit of justice.",
+      "question": "How many years Mandela was subsequently imprisoned for?",
+      "answers": {"text": ["27 years"],"answer_start": [742]}
+    },
+    {
+      "id": "i65",
+      "title": "People",
+      "context": "Nelson Mandela, born on July 18, 1918, in Mvezo, South Africa, was a transformative leader and anti-apartheid revolutionary. As a prominent figure in the African National Congress (ANC), Mandela dedicated his life to fighting racial oppression in South Africa. His activism led to his arrest in 1962 and subsequent imprisonment for 27 years. During his incarceration, Mandela became a symbol of the struggle against apartheid, inspiring international campaigns for his release. After his release in 1990, he played a crucial role in negotiating the end of apartheid and fostering reconciliation in a deeply divided nation. In 1994, Mandela was elected South Africa's first Black president in the country's first multiracial elections. His leadership emphasized peace, social justice, and equality, earning him the Nobel Peace Prize in 1993. Mandela's legacy continues to resonate worldwide, reminding us of the power of resilience, forgiveness, and the pursuit of justice.",
+      "question": "When was Mandela elected as South Africa's first Black president?",
+      "answers": {"text": ["1994"],"answer_start": [627]}
+    },
+    {
+      "id": "i66",
+      "title": "People",
+      "context": "Frida Kahlo, born on July 6, 1907, in Coyoacán, Mexico, was an influential painter known for her vivid self-portraits and unique artistic style that blended realism with surrealism. Her work often explored themes of identity, gender, and postcolonialism, reflecting her personal experiences, including chronic pain and tumultuous relationships. Kahlo's artistic journey began after a severe bus accident in her youth, which led to numerous surgeries and lifelong health issues, deeply influencing her art. She married fellow artist Diego Rivera, and their passionate yet tumultuous relationship informed much of her work. Kahlo's bold use of color, symbolism, and traditional Mexican motifs has made her an icon of feminist art. Her paintings, such as 'The Two Fridas' and 'Self-Portrait with Thorn Necklace and Hummingbird,' continue to resonate with audiences, celebrating the complexity of the human experience. Frida Kahlo's legacy endures, inspiring artists and activists around the world.",
+      "question": "When was Frida Kahlo born?",
+      "answers": {"text": ["July 6, 1907"],"answer_start": [22]}
+    },
+    {
+      "id": "i67",
+      "title": "People",
+      "context": "Frida Kahlo, born on July 6, 1907, in Coyoacán, Mexico, was an influential painter known for her vivid self-portraits and unique artistic style that blended realism with surrealism. Her work often explored themes of identity, gender, and postcolonialism, reflecting her personal experiences, including chronic pain and tumultuous relationships. Kahlo's artistic journey began after a severe bus accident in her youth, which led to numerous surgeries and lifelong health issues, deeply influencing her art. She married fellow artist Diego Rivera, and their passionate yet tumultuous relationship informed much of her work. Kahlo's bold use of color, symbolism, and traditional Mexican motifs has made her an icon of feminist art. Her paintings, such as 'The Two Fridas' and 'Self-Portrait with Thorn Necklace and Hummingbird,' continue to resonate with audiences, celebrating the complexity of the human experience. Frida Kahlo's legacy endures, inspiring artists and activists around the world.",
+      "question": "Who was Frida Kahlo?",
+      "answers": {"text": ["painter "],"answer_start": [76]}
+    },
+    {
+      "id": "i68",
+      "title": "People",
+      "context": "Frida Kahlo, born on July 6, 1907, in Coyoacán, Mexico, was an influential painter known for her vivid self-portraits and unique artistic style that blended realism with surrealism. Her work often explored themes of identity, gender, and postcolonialism, reflecting her personal experiences, including chronic pain and tumultuous relationships. Kahlo's artistic journey began after a severe bus accident in her youth, which led to numerous surgeries and lifelong health issues, deeply influencing her art. She married fellow artist Diego Rivera, and their passionate yet tumultuous relationship informed much of her work. Kahlo's bold use of color, symbolism, and traditional Mexican motifs has made her an icon of feminist art. Her paintings, such as 'The Two Fridas' and 'Self-Portrait with Thorn Necklace and Hummingbird,' continue to resonate with audiences, celebrating the complexity of the human experience. Frida Kahlo's legacy endures, inspiring artists and activists around the world.",
+      "question": "When was Frida Kahlo's artistic journey began?",
+      "answers": {"text": ["after a severe bus accident"],"answer_start": [377]}
+    },
+    {
+      "id": "i69",
+      "title": "People",
+      "context": "Frida Kahlo, born on July 6, 1907, in Coyoacán, Mexico, was an influential painter known for her vivid self-portraits and unique artistic style that blended realism with surrealism. Her work often explored themes of identity, gender, and postcolonialism, reflecting her personal experiences, including chronic pain and tumultuous relationships. Kahlo's artistic journey began after a severe bus accident in her youth, which led to numerous surgeries and lifelong health issues, deeply influencing her art. She married fellow artist Diego Rivera, and their passionate yet tumultuous relationship informed much of her work. Kahlo's bold use of color, symbolism, and traditional Mexican motifs has made her an icon of feminist art. Her paintings, such as 'The Two Fridas' and 'Self-Portrait with Thorn Necklace and Hummingbird,' continue to resonate with audiences, celebrating the complexity of the human experience. Frida Kahlo's legacy endures, inspiring artists and activists around the world.",
+      "question": "Whom Frida Kahlo married?",
+      "answers": {"text": ["Diego Rivera"],"answer_start": [533]}
+    },
+    {
+      "id": "i70",
+      "title": "People",
+      "context": "Frida Kahlo, born on July 6, 1907, in Coyoacán, Mexico, was an influential painter known for her vivid self-portraits and unique artistic style that blended realism with surrealism. Her work often explored themes of identity, gender, and postcolonialism, reflecting her personal experiences, including chronic pain and tumultuous relationships. Kahlo's artistic journey began after a severe bus accident in her youth, which led to numerous surgeries and lifelong health issues, deeply influencing her art. She married fellow artist Diego Rivera, and their passionate yet tumultuous relationship informed much of her work. Kahlo's bold use of color, symbolism, and traditional Mexican motifs has made her an icon of feminist art. Her paintings, such as 'The Two Fridas' and 'Self-Portrait with Thorn Necklace and Hummingbird,' continue to resonate with audiences, celebrating the complexity of the human experience. Frida Kahlo's legacy endures, inspiring artists and activists around the world.",
+      "question": "Traditional Mexican motifs has made her an icon of what?",
+      "answers": {"text": ["feminist art"],"answer_start": [742]}
+    },
+    {
+      "id": "i71",
+      "title": "People",
+      "context": "Leonardo da Vinci, born on April 15, 1452, in Vinci, Italy, was a polymath whose contributions spanned art, science, engineering, and anatomy, making him a quintessential figure of the Renaissance. Renowned for masterpieces such as 'The Last Supper' and 'Mona Lisa', da Vinci's art is celebrated for its innovative techniques, emotional depth, and meticulous attention to detail. His studies of human anatomy and perspective laid the groundwork for future artists and scientists. Da Vinci was also an inventor, designing early concepts for flying machines, tanks, and various mechanical devices, many of which were ahead of his time. His notebooks, filled with sketches, scientific diagrams, and writings, reveal his insatiable curiosity and diverse interests. A true visionary, da Vinci embodied the spirit of inquiry and creativity, influencing countless fields and leaving a profound legacy that continues to inspire and captivate people today. His life exemplifies the integration of art and science.",
+      "question": "When was Leonardo da Vinci born?",
+      "answers": {"text": ["April 15, 1452"],"answer_start": [28]}
+    },
+    {
+      "id": "i72",
+      "title": "People",
+      "context": "Leonardo da Vinci, born on April 15, 1452, in Vinci, Italy, was a polymath whose contributions spanned art, science, engineering, and anatomy, making him a quintessential figure of the Renaissance. Renowned for masterpieces such as 'The Last Supper' and 'Mona Lisa', da Vinci's art is celebrated for its innovative techniques, emotional depth, and meticulous attention to detail. His studies of human anatomy and perspective laid the groundwork for future artists and scientists. Da Vinci was also an inventor, designing early concepts for flying machines, tanks, and various mechanical devices, many of which were ahead of his time. His notebooks, filled with sketches, scientific diagrams, and writings, reveal his insatiable curiosity and diverse interests. A true visionary, da Vinci embodied the spirit of inquiry and creativity, influencing countless fields and leaving a profound legacy that continues to inspire and captivate people today. His life exemplifies the integration of art and science.",
+      "question": "what was his Renowned for masterpieces ?",
+      "answers": {"text": ["'The Last Supper' and 'Mona Lisa'"],"answer_start": [233]}
+    },
+    {
+      "id": "i73",
+      "title": "People",
+      "context": "Leonardo da Vinci, born on April 15, 1452, in Vinci, Italy, was a polymath whose contributions spanned art, science, engineering, and anatomy, making him a quintessential figure of the Renaissance. Renowned for masterpieces such as 'The Last Supper' and 'Mona Lisa', da Vinci's art is celebrated for its innovative techniques, emotional depth, and meticulous attention to detail. His studies of human anatomy and perspective laid the groundwork for future artists and scientists. Da Vinci was also an inventor, designing early concepts for flying machines, tanks, and various mechanical devices, many of which were ahead of his time. His notebooks, filled with sketches, scientific diagrams, and writings, reveal his insatiable curiosity and diverse interests. A true visionary, da Vinci embodied the spirit of inquiry and creativity, influencing countless fields and leaving a profound legacy that continues to inspire and captivate people today. His life exemplifies the integration of art and science.",
+      "question": "Leonardo da Vinci art is celebrated for what?",
+      "answers": {"text": ["innovative techniques, emotional depth, and meticulous attention to detail"],"answer_start": [305]}
+    },
+    {
+      "id": "i74",
+      "title": "People",
+      "context": "Leonardo da Vinci, born on April 15, 1452, in Vinci, Italy, was a polymath whose contributions spanned art, science, engineering, and anatomy, making him a quintessential figure of the Renaissance. Renowned for masterpieces such as 'The Last Supper' and 'Mona Lisa', da Vinci's art is celebrated for its innovative techniques, emotional depth, and meticulous attention to detail. His studies of human anatomy and perspective laid the groundwork for future artists and scientists. Da Vinci was also an inventor, designing early concepts for flying machines, tanks, and various mechanical devices, many of which were ahead of his time. His notebooks, filled with sketches, scientific diagrams, and writings, reveal his insatiable curiosity and diverse interests. A true visionary, da Vinci embodied the spirit of inquiry and creativity, influencing countless fields and leaving a profound legacy that continues to inspire and captivate people today. His life exemplifies the integration of art and science.",
+      "question": "what of his studies laid the groundwork for future artists and scientists?",
+      "answers": {"text": ["human anatomy and perspective"],"answer_start": [396]}
+    },
+    {
+      "id": "i75",
+      "title": "People",
+      "context": "Leonardo da Vinci, born on April 15, 1452, in Vinci, Italy, was a polymath whose contributions spanned art, science, engineering, and anatomy, making him a quintessential figure of the Renaissance. Renowned for masterpieces such as 'The Last Supper' and 'Mona Lisa', da Vinci's art is celebrated for its innovative techniques, emotional depth, and meticulous attention to detail. His studies of human anatomy and perspective laid the groundwork for future artists and scientists. Da Vinci was also an inventor, designing early concepts for flying machines, tanks, and various mechanical devices, many of which were ahead of his time. His notebooks, filled with sketches, scientific diagrams, and writings, reveal his insatiable curiosity and diverse interests. A true visionary, da Vinci embodied the spirit of inquiry and creativity, influencing countless fields and leaving a profound legacy that continues to inspire and captivate people today. His life exemplifies the integration of art and science.",
+      "question": "what were his early designing concepts for?",
+      "answers": {"text": ["flying machines, tanks, and various mechanical devices"],"answer_start": [541]}
+    }   
+  ]
+}
