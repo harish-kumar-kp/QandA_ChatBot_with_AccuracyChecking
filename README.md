@@ -21,15 +21,15 @@ This README provides an overview of a DistilBERT-based Question & Answering (Q&A
 
 
 ## 1. Project Structure :
-##### ├── datasets/
+#### ├── datasets/
 ######       └── train_customSquad-v1.1.json # Customized SQuAD dataset file for Train
 ######       └── validation_customSquad-v1.1.json # Customized SQuAD dataset file for Validation
-##### ├── model/
+#### ├── model/
 ######       └── customTrained_Distilbert_Squad # Trained and finetuned DistilBERT model checkpoint
-##### ├── app.py # Main Gradio app script
-##### ├── colabNotebook_CasedDisBert_CustomSquad_Train.ipynb # Script to fine-tune DistilBERT on the customized dataset
-##### ├── requirements.txt # Required Python packages
-##### └── README.md # Project documentation
+#### ├── app.py # Main Gradio app script
+#### ├── colabNotebook_CasedDisBert_CustomSquad_Train.ipynb # Script to fine-tune DistilBERT on the customized dataset
+#### ├── requirements.txt # Required Python packages
+#### └── README.md # Project documentation
 
 
 ## 2. Requirements :
