@@ -23,9 +23,9 @@ This README provides an overview of a DistilBERT-based Question & Answering (Q&A
 ## 1. Project Structure :
 ##### ├── datasets/
 ##### │   └── train_customSquad-v1.1.json # Customized SQuAD dataset file for Train
-##### │   └── validation_customSquad-v1.1.json # Customized SQuAD dataset file for Validation
+#####     └── validation_customSquad-v1.1.json # Customized SQuAD dataset file for Validation
 ##### ├── model/
-##### │   └── customTrained_Distilbert_Squad # Trained and finetuned DistilBERT model checkpoint
+#####     └── customTrained_Distilbert_Squad # Trained and finetuned DistilBERT model checkpoint
 ##### ├── app.py # Main Gradio app script
 ##### ├── colabNotebook_CasedDisBert_CustomSquad_Train.ipynb # Script to fine-tune DistilBERT on the customized dataset
 ##### ├── requirements.txt # Required Python packages
@@ -84,7 +84,7 @@ built and deployed as a webpage for enabling to share the Application Globally.A
 The Application Interface is very simple , with Text Input Field for the 1. Context Passage ,2.Question and 3.Gold Answer where a paragraph or 2 can 
 be Typed or Pasted from the External File in to the 'context' Text Field and frame the Question in the 'Question' Text Field and type the possible Answer 
 in the 'Gold Answer' Text Field . The four results will be computed namely 'Answer','Machine Answer vs Human Answer','Exact Match' and 'F1' Score.
-🎬 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗗𝗲𝗺𝗼 𝗩𝗶𝗱𝗲𝗼: [https://www.youtube.com/watch?v=jScf-Qh39jI&t=238s](https://www.youtube.com/watch?v=jScf-Qh39jI&t=238s)
+🎬 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗗𝗲𝗺𝗼 𝗩𝗶𝗱𝗲𝗼: [https://www.youtube.com/watch?v=IpunZ3T092g](https://www.youtube.com/watch?v=IpunZ3T092g)
 
 
 ## 8. Future Improvements :
