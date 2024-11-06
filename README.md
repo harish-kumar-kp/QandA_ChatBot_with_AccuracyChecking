@@ -32,13 +32,13 @@ This README provides an overview of a DistilBERT-based Question & Answering (Q&A
 9.└── README.md # Project documentation
 
 
-## 2. Requirements :
-## torch==2.5.1
-## transformers==4.46.1
-## regex==2024.9.11
-## Strings2==0.0.4
-## py3collections==0.1.2
-## gradio==5.4.0
+##### 2. Requirements :
+##### torch==2.5.1
+##### transformers==4.46.1
+##### regex==2024.9.11
+##### Strings2==0.0.4
+##### py3collections==0.1.2
+##### gradio==5.4.0
 
 
 ## 3. Dataset Preparation :
