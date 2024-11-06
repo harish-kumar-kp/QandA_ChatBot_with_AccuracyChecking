@@ -32,7 +32,7 @@ This README provides an overview of a DistilBERT-based Question & Answering (Q&A
 9.└── README.md # Project documentation
 
 
-##### 2. Requirements :
+## 2. Requirements :
 ##### torch==2.5.1
 ##### transformers==4.46.1
 ##### regex==2024.9.11
