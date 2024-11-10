@@ -51,7 +51,7 @@ an example of single unit of question which is represtented a s asingle row
       "title": "<Topic Title>",
       "context": "<Passage>",
       "question": "<question?>",
-      "answers": {"<answer>": ["<Answer for the Question>"],"<answer_start>": ["<int value of the answer string index>"]}
+      "answers": {"answer": ["Answer for the Question"],"answer_start": ["int value of the answer string start index"]}
     },(after this coma a ,similar question unit block follows,..)
         ]
 }
