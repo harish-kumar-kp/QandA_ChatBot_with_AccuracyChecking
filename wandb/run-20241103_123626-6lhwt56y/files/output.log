@@ -1,0 +1,13 @@
+Drive already mounted at /content/gdrive; to attempt to forcibly remount, call drive.mount("/content/gdrive", force_remount=True).
+Hardware accelerator e.g. GPU is available in the environment, but no `device` argument is passed to the `Pipeline` object. Model will be on CPU.
+{'score': 0.5112108588218689, 'start': 76, 'end': 90, 'answer': 'Edward Furlong'}
+Average Exact Match: 0.58
+Average F1 Score: 0.7105238095238094
+What are the unintended consequences?
+("Machine Answer: job displacement or AI-driven decision-making biases Vs 'Human Answer':job displacement or AI-driven decision-making biases", 'Exact Match: True', 'F1 Score: 1.0')
+Running Gradio in a Colab notebook requires sharing enabled. Automatically setting `share=True` (you can turn this off by setting `share=False` in `launch()` explicitly).
+
+Colab notebook detected. To show errors in colab notebook, set debug=True in launch()
+* Running on public URL: https://1fcc1db4350b979279.gradio.live
+
+This share link expires in 72 hours. For free permanent hosting and GPU upgrades, run `gradio deploy` from the terminal in the working directory to deploy to Hugging Face Spaces (https://huggingface.co/spaces)
