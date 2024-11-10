@@ -71,7 +71,7 @@ This Gradio Application is ment to Answer the Question from the given Passage an
 so there should be a Human answer that is the Gold Answer in which the comparison will happen with the Actual Human Gold Answer and the Predicted Answer 
 to calculate the 'F1' Formula and check for "Exact Match' ,'EM'  as well, to enable the Gradio App has 3 inputs 1.context Passage ,2.Question and 
 3.Gold Answer and 4 output Text  Fields for 1.Answer ,2.Machiine Answer Vs Human Answer,3.Exact Match score and 4.F1 Score , the Title , Description and 
-Article arethe  predefined Templated Text functions to show Title of the project and  Description of the Projectand text about thee Credits of the Developer. In addition to this the Functions for the Q&A Model , EM and F1 functions are included in the Application Script.
+Article are the  predefined Templated Text functions to show Title of the project and  Description of the Projectand text about thee Credits of the Developer. In addition to this the Functions for the Q&A Model , EM and F1 functions are included in the Application Script.
 
 
 ## 6. How to Run :
